@@ -79,6 +79,5 @@ Implement AI-based job recommendations.
 Add real-time chat between customers and workers.
 Improve analytics dashboard for admins.
 👨‍💻 Authors
-Your Name – Backend & API Development
-Your Teammate – Frontend Development
-Your Teammate – Admin Panel Development
+Trần Văn Bảo – Backend & API Development
+Nguyễn Bảo Thành – Frontend Development
